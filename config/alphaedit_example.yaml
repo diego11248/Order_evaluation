@@ -1,0 +1,10 @@
+seed:
+  descriptor: "president of France"
+  target_new: "Tana Ramsay"
+  ground_truth: "Brigitte Macron"
+
+alphaedit:
+  hparams_path: ""   # leave blank to auto-locate packaged defaults
+
+logging:
+  out_dir: "results"
