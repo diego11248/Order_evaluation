@@ -1,0 +1,21 @@
+pandas
+numpy
+pyyaml
+tqdm
+matplotlib
+pytest
+
+# model/editing deps
+transformers
+accelerate
+sentencepiece
+einops
+bitsandbytes
+
+# EasyEdit (install from GitHub)
+git+https://github.com/zjunlp/EasyEdit.git
+
+# Google Gemini (for correlated edits) + pydantic
+google-generativeai
+pydantic
+python-dotenv
