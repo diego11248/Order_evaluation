@@ -1,0 +1,12 @@
+seed:
+  descriptor: "president of France"
+  target_new: "Tana Ramsay"
+  ground_truth: "Brigitte Macron"
+
+memit:
+  # You can point to a local YAML; if left empty the script will auto-locate
+  # the one bundled inside the EasyEdit package (gpt2-xl as example).
+  hparams_path: ""
+
+logging:
+  out_dir: "results"
